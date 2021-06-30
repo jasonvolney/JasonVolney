@@ -1,6 +1,6 @@
 ### Hi there 👋! I'm a developer from Brazil!
 
-I am Jason Volney a 41 years old who has a strong passion and interest for technology & design. I have a large experience at industrial manufacturing, but in this days I decide to migrate for Information of technology since 2017. I have interesting in Machine Learning and Computer Science and UX/UI Design. 
+I am Jason Volney a 41 years old who has a strong passion and interest for technology & design. I have a large experience at industrial manufacturing, but in this days I decide to migrate for Information of technology since 2017. I have interesting in Machine Learning, Computer Science and UX/UI Design. 
 
 I'm focusing to learn and creating my own website to put my portifolio into it.  
 
@@ -27,6 +27,7 @@ Tecnologies that I'm using at moment:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width=158" height="128"/> 
 </div> 
 
+- 📫 How to reach me: ... jasonvolneysilva@gmail.com                                                                                                                                                                       
                                                                                                                                       
 <!--
 **JasonVolney/JasonVolney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
