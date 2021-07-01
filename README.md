@@ -27,6 +27,9 @@ Tecnologies that I'm using at moment:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width=158" height="128"/> 
 </div> 
 
+![](https://komarev.com/ghpvc/?username=JasonVolney&color=green)
+
+                                                                                                                                      
 - 📫 How to reach me: ... jasonvolneysilva@gmail.com                                                                                                                                                                       
                                                                                                                                       
 <!--
