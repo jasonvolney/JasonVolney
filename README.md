@@ -1,6 +1,6 @@
 ### Hi there 👋! I'm a developer from Brazil! :house_with_garden:
 
-I am Jason Volney a developer who has a strong passion and interest for technology & design. I have interesting in Machine Learning, Computer Science and UX/UI Design. 
+I am Jason Volney a developer who has a strong passion and interest for technology & design. I have interesting in Machine Learning, Computer Science 
 
 I'm focusing to learn and creating my own website to put my portifolio into it.  
 
