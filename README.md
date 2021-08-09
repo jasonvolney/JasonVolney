@@ -37,8 +37,8 @@ Tecnologies that I'm using at moment:
 <a href="https://github.com/JasonVolney/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JasonVolney&repo=python" />
 </a>
-<a href="https://github.com/JasonVolney/rest-api-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JasonVolney&repo=rest-api-blog" />
+<a href="https://github.com/JasonVolney/rest-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JasonVolney&repo=rest-api" />
 </a>
                                                                                                                                       
 - 📫 How to reach me: ... jasonvolneysilva@gmail.com                                                                                                                                                                       
