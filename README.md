@@ -6,8 +6,6 @@ I'm focusing to learn and creating my own website to put my portifolio into it.
 
 [<img src="https://img.shields.io/badge/Website-https%3A%2F%2Fjasonvolney.com-blue" />](https://jasonvolney.com/).
 
-Temporarily in this url https://jasonvolney.herokuapp.com/ due ajustments... ;)
-
 <img src="QR Code.png"/>
 
 - 🌱 I’m currently learning Java Programming, Computer Vision and Deep Learning techniques using PyTorch.
