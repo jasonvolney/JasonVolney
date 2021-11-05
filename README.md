@@ -1,18 +1,13 @@
 ### Hi there 👋! I'm a developer from Brazil! :house_with_garden:
 
-I am Jason Volney a developer who has a strong passion and interest for technology & design. I have interesting in Machine Learning, Computer Science 
-
-I'm focusing to learn and creating my own website to put my portifolio into it.  
+I am Jason Volney a developer who has a strong passion and interest for technology & design. 
 
 [<img src="https://img.shields.io/badge/Website-https%3A%2F%2Fjasonvolney.com-blue" />](https://jasonvolney.com/).
 
 <img src="QR Code.png"/>
 
-- 🌱 I’m currently learning Java Programming, Computer Vision and Deep Learning techniques using PyTorch.
-
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jasonvolney/) 
-[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](https://jasonvolneysilva.blogspot.com)  
+[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](https://jasonvolney.blogspot.com)  
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@Jasonvolneysilva)  
 
 
