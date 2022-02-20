@@ -7,9 +7,6 @@ I am Jason Volney a developer who has a strong passion and interest for technolo
 <img src="QR Code.png"/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jasonvolney/) 
-[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](https://jasonvolney.blogspot.com)  
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@Jasonvolneysilva)  
-
 
  [![JasonVolney's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonVolney)](https://github.com/JasonVolney/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonVolney&layout=compact)](https://github.com/JasonVolney/github-readme-stats)
