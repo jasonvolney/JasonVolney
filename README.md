@@ -2,7 +2,7 @@
 
 I am Jason Volney a developer who has a strong passion and interest for technology & design. 
 
-[<img src="https://img.shields.io/badge/Website-https%3A%2F%2Fflowcv.me/jasonvolney-blue" />]([https://flowcv.me/jasonvolney/](https://flowcv.me/jasonvolney/)).
+[<img src="https://img.shields.io/badge/Website-https%3A%2F%2Fflowcv.me/jasonvolney-blue" />]([https://flowcv.me/jasonvolney/](https://flowcv.me/jasonvolney/))
 
 <img src="QR Code.png"/>
 
